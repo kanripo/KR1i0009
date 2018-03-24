@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 樂律全書
-#+DATE: 2018-03-24 09:40:53.357848
+#+DATE: 2018-03-24 09:40:53.953993
 #+PROPERTY: ID KR1i0009
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 17
 <pb:KR1i0009_WYG_017-1a>¶
 　　欽定四庫全書¶
@@ -34,7 +34,7 @@
 <pb:KR1i0009_WYG_017-2a>¶
 其中按拍處那五音依舊都用不只是全用宫¶
 ¶
-　　或問周禮祀天神地&KR0344;人鬼之樂何以無商音曰五音¶
+　　或問周禮祀天神地示人鬼之樂何以無商音曰五音¶
 無一則不成樂非是無商音只是無商調先儒謂商調¶
 是殺聲鬼神畏商調故不用而只用四聲迭相為宫未¶
 知其五聲不備又何以為樂大抵古樂多淡十二律之¶

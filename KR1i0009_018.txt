@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 樂律全書
-#+DATE: 2018-03-24 09:40:53.363980
+#+DATE: 2018-03-24 09:40:53.960869
 #+PROPERTY: ID KR1i0009
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 18
 <pb:KR1i0009_WYG_018-1a>¶
 　　欽定四庫全書¶
@@ -781,7 +781,7 @@
 <pb:KR1i0009_WYG_018-28a>¶
 　　主人釋服乃息司正無介不殺　主人釋服乃息司正無介不殺¶
 ¶
-　　薦脯醢羞唯所有徴唯所欲以　使人𨒪迎于門外不拜入升不¶
+　　薦脯醢羞唯所有徴唯所欲以　使人速迎于門外不拜入升不¶
 ¶
 　　告于先生君子可也賔介不興　拜至不拜洗薦脯醢無爼賔酢¶
 ¶

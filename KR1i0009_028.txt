@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 樂律全書
-#+DATE: 2018-03-24 09:40:53.543620
+#+DATE: 2018-03-24 09:40:54.138797
 #+PROPERTY: ID KR1i0009
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 28
 <pb:KR1i0009_WYG_028-1a>¶
 　　欽定四庫全書¶
@@ -303,7 +303,7 @@
 為林鍾次吹工字上第五弦按第十徽彈之令與¶
 笙音相同是為南呂其第六弦第七弦散聲與第¶
 一弦第二弦散聲相應此五聲為均之琴也吹笙¶
-定弦畢復照調弦法𠕅詳定之是上琴大略也¶
+定弦畢復照調弦法再詳定之是上琴大略也¶
 <pb:KR1i0009_WYG_028-23b>¶
 上瑟大略與上箏同將瑟弦通解畢新布拂拭乾¶
 淨尾端用錦一幅或用色紙代之先上中弦空彈¶
