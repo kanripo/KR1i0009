@@ -1,0 +1,135 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 樂律全書
+#+DATE: 2018-03-24 09:40:53.644180
+#+PROPERTY: ID KR1i0009
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: WITNESS WYG    
+#+PROPERTY: JUAN 34
+<pb:KR1i0009_WYG_034-1a>¶
+　　欽定四庫全書¶
+¶
+　　樂律全書卷三十三¶
+¶
+　　明　朱載堉　撰¶
+¶
+　　鄉飲詩樂譜三¶
+¶
+　　此亦無算樂¶
+¶
+　　説見前卷末¶
+¶
+¶
+¶
+<pb:KR1i0009_WYG_034-1b>¶
+<pb:KR1i0009_WYG_034-2a>¶
+<pb:KR1i0009_WYG_034-2b>¶
+<pb:KR1i0009_WYG_034-3a>¶
+<pb:KR1i0009_WYG_034-3b>¶
+<pb:KR1i0009_WYG_034-4a>¶
+<pb:KR1i0009_WYG_034-4b>¶
+<pb:KR1i0009_WYG_034-5a>¶
+<pb:KR1i0009_WYG_034-5b>¶
+<pb:KR1i0009_WYG_034-6a>¶
+<pb:KR1i0009_WYG_034-6b>¶
+<pb:KR1i0009_WYG_034-7a>¶
+<pb:KR1i0009_WYG_034-7b>¶
+<pb:KR1i0009_WYG_034-8a>¶
+<pb:KR1i0009_WYG_034-8b>¶
+<pb:KR1i0009_WYG_034-9a>¶
+<pb:KR1i0009_WYG_034-9b>¶
+<pb:KR1i0009_WYG_034-10a>¶
+<pb:KR1i0009_WYG_034-10b>¶
+<pb:KR1i0009_WYG_034-11a>¶
+<pb:KR1i0009_WYG_034-11b>¶
+<pb:KR1i0009_WYG_034-12a>¶
+<pb:KR1i0009_WYG_034-12b>¶
+<pb:KR1i0009_WYG_034-13a>¶
+<pb:KR1i0009_WYG_034-13b>¶
+<pb:KR1i0009_WYG_034-14a>¶
+<pb:KR1i0009_WYG_034-14b>¶
+<pb:KR1i0009_WYG_034-15a>¶
+<pb:KR1i0009_WYG_034-15b>¶
+<pb:KR1i0009_WYG_034-16a>¶
+<pb:KR1i0009_WYG_034-16b>¶
+<pb:KR1i0009_WYG_034-17a>¶
+<pb:KR1i0009_WYG_034-17b>¶
+<pb:KR1i0009_WYG_034-18a>¶
+<pb:KR1i0009_WYG_034-18b>¶
+<pb:KR1i0009_WYG_034-19a>¶
+<pb:KR1i0009_WYG_034-19b>¶
+<pb:KR1i0009_WYG_034-20a>¶
+<pb:KR1i0009_WYG_034-20b>¶
+<pb:KR1i0009_WYG_034-21a>¶
+<pb:KR1i0009_WYG_034-21b>¶
+<pb:KR1i0009_WYG_034-22a>¶
+<pb:KR1i0009_WYG_034-22b>¶
+<pb:KR1i0009_WYG_034-23a>¶
+<pb:KR1i0009_WYG_034-23b>¶
+<pb:KR1i0009_WYG_034-24a>¶
+<pb:KR1i0009_WYG_034-24b>¶
+<pb:KR1i0009_WYG_034-25a>¶
+<pb:KR1i0009_WYG_034-25b>¶
+<pb:KR1i0009_WYG_034-26a>¶
+<pb:KR1i0009_WYG_034-26b>¶
+<pb:KR1i0009_WYG_034-27a>¶
+<pb:KR1i0009_WYG_034-27b>¶
+<pb:KR1i0009_WYG_034-28a>¶
+<pb:KR1i0009_WYG_034-28b>¶
+<pb:KR1i0009_WYG_034-29a>¶
+<pb:KR1i0009_WYG_034-29b>¶
+<pb:KR1i0009_WYG_034-30a>¶
+<pb:KR1i0009_WYG_034-30b>¶
+<pb:KR1i0009_WYG_034-31a>¶
+<pb:KR1i0009_WYG_034-31b>¶
+<pb:KR1i0009_WYG_034-32a>¶
+<pb:KR1i0009_WYG_034-32b>¶
+<pb:KR1i0009_WYG_034-33a>¶
+<pb:KR1i0009_WYG_034-33b>¶
+<pb:KR1i0009_WYG_034-34a>¶
+<pb:KR1i0009_WYG_034-34b>¶
+<pb:KR1i0009_WYG_034-35a>¶
+<pb:KR1i0009_WYG_034-35b>¶
+<pb:KR1i0009_WYG_034-36a>¶
+<pb:KR1i0009_WYG_034-36b>¶
+<pb:KR1i0009_WYG_034-37a>¶
+<pb:KR1i0009_WYG_034-37b>¶
+<pb:KR1i0009_WYG_034-38a>¶
+<pb:KR1i0009_WYG_034-38b>¶
+<pb:KR1i0009_WYG_034-39a>¶
+<pb:KR1i0009_WYG_034-39b>¶
+<pb:KR1i0009_WYG_034-40a>¶
+<pb:KR1i0009_WYG_034-40b>¶
+<pb:KR1i0009_WYG_034-41a>¶
+<pb:KR1i0009_WYG_034-41b>¶
+<pb:KR1i0009_WYG_034-42a>¶
+<pb:KR1i0009_WYG_034-42b>¶
+<pb:KR1i0009_WYG_034-43a>¶
+<pb:KR1i0009_WYG_034-43b>¶
+<pb:KR1i0009_WYG_034-44a>¶
+<pb:KR1i0009_WYG_034-44b>¶
+<pb:KR1i0009_WYG_034-45a>¶
+<pb:KR1i0009_WYG_034-45b>¶
+<pb:KR1i0009_WYG_034-46a>¶
+<pb:KR1i0009_WYG_034-46b>¶
+¶
+<pb:KR1i0009_WYG_034-47a>¶
+¶
+¶
+¶
+¶
+¶
+¶
+　　已上每章笙與歌相間作如日短¶
+¶
+　　或隨意摘取數章而不全作亦可¶
+<pb:KR1i0009_WYG_034-47b>¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+　　樂律全書卷三十三¶
+¶

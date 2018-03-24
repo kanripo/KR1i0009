@@ -1,0 +1,123 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 樂律全書
+#+DATE: 2018-03-24 09:40:53.647044
+#+PROPERTY: ID KR1i0009
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: WITNESS WYG    
+#+PROPERTY: JUAN 35
+<pb:KR1i0009_WYG_035-1a>¶
+　　欽定四庫全書¶
+¶
+　　樂律全書卷三十四¶
+¶
+　　明　朱載堉　撰¶
+¶
+　　鄉飲詩樂譜四¶
+¶
+　　所謂合樂者如堂上歌關雎則堂下亦奏關雎以¶
+合之如堂上歌鵲巢則堂下亦奏鵲巢以合之此¶
+之謂合樂也舊説如堂上歌關雎則堂下奏鵲巢¶
+以合之此不達之論也¶
+<pb:KR1i0009_WYG_035-1b>¶
+<pb:KR1i0009_WYG_035-2a>¶
+<pb:KR1i0009_WYG_035-2b>¶
+<pb:KR1i0009_WYG_035-3a>¶
+<pb:KR1i0009_WYG_035-3b>¶
+<pb:KR1i0009_WYG_035-4a>¶
+<pb:KR1i0009_WYG_035-4b>¶
+<pb:KR1i0009_WYG_035-5a>¶
+<pb:KR1i0009_WYG_035-5b>¶
+<pb:KR1i0009_WYG_035-6a>¶
+<pb:KR1i0009_WYG_035-6b>¶
+<pb:KR1i0009_WYG_035-7a>¶
+<pb:KR1i0009_WYG_035-7b>¶
+<pb:KR1i0009_WYG_035-8a>¶
+<pb:KR1i0009_WYG_035-8b>¶
+<pb:KR1i0009_WYG_035-9a>¶
+<pb:KR1i0009_WYG_035-9b>¶
+<pb:KR1i0009_WYG_035-10a>¶
+<pb:KR1i0009_WYG_035-10b>¶
+<pb:KR1i0009_WYG_035-11a>¶
+<pb:KR1i0009_WYG_035-11b>¶
+<pb:KR1i0009_WYG_035-12a>¶
+<pb:KR1i0009_WYG_035-12b>¶
+<pb:KR1i0009_WYG_035-13a>¶
+<pb:KR1i0009_WYG_035-13b>¶
+<pb:KR1i0009_WYG_035-14a>¶
+<pb:KR1i0009_WYG_035-14b>¶
+<pb:KR1i0009_WYG_035-15a>¶
+<pb:KR1i0009_WYG_035-15b>¶
+<pb:KR1i0009_WYG_035-16a>¶
+<pb:KR1i0009_WYG_035-16b>¶
+<pb:KR1i0009_WYG_035-17a>¶
+<pb:KR1i0009_WYG_035-17b>¶
+<pb:KR1i0009_WYG_035-18a>¶
+<pb:KR1i0009_WYG_035-18b>¶
+<pb:KR1i0009_WYG_035-19a>¶
+<pb:KR1i0009_WYG_035-19b>¶
+<pb:KR1i0009_WYG_035-20a>¶
+<pb:KR1i0009_WYG_035-20b>¶
+<pb:KR1i0009_WYG_035-21a>¶
+<pb:KR1i0009_WYG_035-21b>¶
+<pb:KR1i0009_WYG_035-22a>¶
+<pb:KR1i0009_WYG_035-22b>¶
+<pb:KR1i0009_WYG_035-23a>¶
+<pb:KR1i0009_WYG_035-23b>¶
+<pb:KR1i0009_WYG_035-24a>¶
+<pb:KR1i0009_WYG_035-24b>¶
+<pb:KR1i0009_WYG_035-25a>¶
+<pb:KR1i0009_WYG_035-25b>¶
+<pb:KR1i0009_WYG_035-26a>¶
+<pb:KR1i0009_WYG_035-26b>¶
+<pb:KR1i0009_WYG_035-27a>¶
+<pb:KR1i0009_WYG_035-27b>¶
+<pb:KR1i0009_WYG_035-28a>¶
+<pb:KR1i0009_WYG_035-28b>¶
+<pb:KR1i0009_WYG_035-29a>¶
+<pb:KR1i0009_WYG_035-29b>¶
+<pb:KR1i0009_WYG_035-30a>¶
+<pb:KR1i0009_WYG_035-30b>¶
+<pb:KR1i0009_WYG_035-31a>¶
+<pb:KR1i0009_WYG_035-31b>¶
+<pb:KR1i0009_WYG_035-32a>¶
+<pb:KR1i0009_WYG_035-32b>¶
+<pb:KR1i0009_WYG_035-33a>¶
+<pb:KR1i0009_WYG_035-33b>¶
+<pb:KR1i0009_WYG_035-34a>¶
+<pb:KR1i0009_WYG_035-34b>¶
+<pb:KR1i0009_WYG_035-35a>¶
+<pb:KR1i0009_WYG_035-35b>¶
+<pb:KR1i0009_WYG_035-36a>¶
+<pb:KR1i0009_WYG_035-36b>¶
+<pb:KR1i0009_WYG_035-37a>¶
+<pb:KR1i0009_WYG_035-37b>¶
+<pb:KR1i0009_WYG_035-38a>¶
+<pb:KR1i0009_WYG_035-38b>¶
+<pb:KR1i0009_WYG_035-39a>¶
+<pb:KR1i0009_WYG_035-39b>¶
+<pb:KR1i0009_WYG_035-40a>¶
+<pb:KR1i0009_WYG_035-40b>¶
+<pb:KR1i0009_WYG_035-41a>¶
+<pb:KR1i0009_WYG_035-41b>¶
+<pb:KR1i0009_WYG_035-42a>¶
+<pb:KR1i0009_WYG_035-42b>¶
+<pb:KR1i0009_WYG_035-43a>¶
+<pb:KR1i0009_WYG_035-43b>¶
+<pb:KR1i0009_WYG_035-44a>¶
+<pb:KR1i0009_WYG_035-44b>¶
+<pb:KR1i0009_WYG_035-45a>¶
+<pb:KR1i0009_WYG_035-45b>¶
+<pb:KR1i0009_WYG_035-46a>¶
+<pb:KR1i0009_WYG_035-46b>¶
+<pb:KR1i0009_WYG_035-47a>¶
+<pb:KR1i0009_WYG_035-47b>¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+　　樂律全書卷三十四¶
+¶
